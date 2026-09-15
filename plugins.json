@@ -102,5 +102,9 @@
   {
     "name": "Grinning Cat Weaviate",
     "url": "https://github.com/Grinning-Cat-RAG/grinning-cat-weaviate"
+  },
+  {
+    "name": "Cat with Cloud Sources",
+    "url": "https://github.com/Grinning-Cat-RAG/cat-with-cloud-sources"
   }
 ]
