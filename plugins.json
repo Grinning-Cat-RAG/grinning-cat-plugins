@@ -106,5 +106,13 @@
   {
     "name": "Cat with Cloud Sources",
     "url": "https://github.com/Grinning-Cat-RAG/cat-with-cloud-sources"
+  },
+  {
+    "name": "Cat Efficient Ingestion",
+    "url": "https://github.com/DEH-RAG/cat-efficient-ingestion"
+  },
+  {
+    "name": "Cat Multimodal Ingestion",
+    "url": "https://github.com/DEH-RAG/cat-multimodal-ingestion"
   }
 ]
