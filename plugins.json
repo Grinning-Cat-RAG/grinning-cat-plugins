@@ -114,5 +114,13 @@
   {
     "name": "Cat Multimodal Ingestion",
     "url": "https://github.com/DEH-RAG/cat-multimodal-ingestion"
+  },
+  {
+    "name": "Cat Analytics",
+    "url": "https://github.com/Grinning-Cat-RAG/cat-analytics"
+  },
+  {
+    "name": "# Langfuse Connector for Grinning Cat",
+    "url": "https://github.com/Grinning-Cat-RAG/cat-langfuse-connector"
   }
 ]
